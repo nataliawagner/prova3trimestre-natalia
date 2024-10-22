@@ -2,6 +2,9 @@ body{
 background-color: cornsilk;
 text-align: center;
 font-style: italic;
-
+width: 30px; 
+margin: 20px;
+padding: 200px;
+color: rgb(255, 23, 23);
 }
 
